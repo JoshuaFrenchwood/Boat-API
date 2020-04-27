@@ -19,7 +19,6 @@ OS: Linux/Windows , Mac?
 @author: Joshua Frenchwood
 """
 import BoatApi as api
-import random 
 import pygame
 from os import path
 
